@@ -1,5 +1,6 @@
 # ResolveX2
-Aplicativo de Calculadora com persistência de dados desevolvida no Android Studio utilizando a linguagem Java.
+Aplicativo de Calculadora com persistência de dados.
+Desenvolvida no Android Studio utilizando a linguagem Java.
 
 
 APK:
